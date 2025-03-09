@@ -2,9 +2,6 @@ Steam Playtime Word Cloud
 
 This Python script generates a word cloud based on your Steam game playtimes. The more you have played a game, the bigger its name appears in the word cloud.
 
-Example Output
-
- 
 
 Installation & Setup
 
